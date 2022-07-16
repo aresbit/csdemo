@@ -135,6 +135,7 @@ fopen函数打开文件：要触发系统中的sys_open系统调用。
 - glibc https://www.gnu.org/software/libc/manual/
 
 - System Call Wrappers https://sourceware.org/glibc/wiki/SyscallWrappers
+- https://www.man7.org/linux/man-pages/
 
 内核接口
 
