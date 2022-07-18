@@ -182,3 +182,7 @@ https://contest.cs.cmu.edu/295/s22/
 
 https://www.csie.ntu.edu.tw/~d00922011/
 
+http://web.stanford.edu/class/ee26n/
+https://cs162.org/ladder/
+
+
