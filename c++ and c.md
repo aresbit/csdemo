@@ -1,5 +1,33 @@
 c 补充
 
+https://mnunknown.gitbook.io/algorithm-notes/
+
+
+
+http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/
+
+
+https://www.cs.cmu.edu/~15451-s22/schedule.html
+
+
+
+https://nheri-simcenter.github.io/SimCenterBootcamp2022/index.html
+
+
+https://wiki.nikiv.dev/programming-languages/c/#links
+
+
+https://courses.cs.washington.edu/courses/cse333/22sp/
+
+
+https://www.cs.cmu.edu/~18213/
+
+
+https://moss.cs.iit.edu/cs351/
+
+https://cs61.seas.harvard.edu/site/2021/
+
+
 https://cs241.cs.illinois.edu/
 
 https://engineering.purdue.edu/ece264/22sp/
@@ -53,6 +81,9 @@ https://courses.engr.illinois.edu/cs225/sp2022/
 
 
 algo
+https://books.halfrost.com/leetcode/
+
+
 
 [CMU 15-451/651: Algorithms, Spring 2022: Main Page](https://www.cs.cmu.edu/~15451-s22/)
 
