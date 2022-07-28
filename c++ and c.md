@@ -1,5 +1,7 @@
 c 补充
 
+https://c-faq.com/index.html
+
 
 https://www.cs.tufts.edu/~nr/
 
