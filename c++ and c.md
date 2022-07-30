@@ -5,7 +5,7 @@ https://cadmo.ethz.ch/education/lectures/HS21/DA/index.html
 
 https://www.cs.cornell.edu/courses/cs4820/2022sp/
 
-
+https://acl.inf.ethz.ch/teaching/fastcode/
 
 https://www.cs.princeton.edu/courses/archive/spr22/cos217/schedule.html
 
