@@ -3,7 +3,8 @@ c 补充
 https://cadmo.ethz.ch/education/lectures/HS21/DA/index.html
 
 
-https://www.cs.tufts.edu/~nr/
+https://www.cs.cornell.edu/courses/cs4820/2022sp/
+
 
 
 https://www.cs.princeton.edu/courses/archive/spr22/cos217/schedule.html
@@ -235,3 +236,9 @@ http://web.stanford.edu/class/ee26n/
 https://cs162.org/ladder/
 
 https://app.albera.com/u/9iw11f448f/digital-communication-systems/introduction/overview/
+
+
+
+
+https://www.cs.tufts.edu/~nr/
+
