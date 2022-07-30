@@ -71,6 +71,7 @@ c++
 
 [CIS 190: C++ Programming (Fall 2021)](https://www.seas.upenn.edu/~cis190/)
 
+https://lec.inf.ethz.ch/tutorials/cpp-to-py/#ch1-about-this-tutorial
 
 
 [EECS 381: Main Page C++](http://websites.umich.edu/~eecs381/)
