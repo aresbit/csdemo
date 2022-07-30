@@ -58,3 +58,9 @@ https://db.in.tum.de/teaching/ss22/c++praktikum/
 
 
 http://www.cs.columbia.edu/~jae/4995/?asof=20220523
+
+
+杂
+
+https://www.apstudynotes.org/
+
