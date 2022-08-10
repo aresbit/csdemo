@@ -6,7 +6,7 @@ https://cs.yale.edu/homes/aspnes/classes/223/notes.html
 
 https://www.cs.yale.edu/homes/aspnes/classes/
 
-
+https://ipads.se.sjtu.edu.cn/courses/ics/
 
 https://cadmo.ethz.ch/education/lectures/HS21/DA/index.html
 
