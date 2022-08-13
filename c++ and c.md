@@ -5,6 +5,8 @@ https://cs.yale.edu/homes/aspnes/classes/223/notes.html
 
 https://www.cs.umd.edu/class/spring2022/cmsc420-0101/
 
+https://moss.cs.iit.edu/cs351/
+
 
 https://www.cs.yale.edu/homes/aspnes/classes/
 
