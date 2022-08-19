@@ -255,7 +255,10 @@ https://cs162.org/ladder/
 https://app.albera.com/u/9iw11f448f/digital-communication-systems/introduction/overview/
 
 
+深度学习
+https://minitorch.github.io/
 
+编程方法论
 
 https://www.cs.tufts.edu/~nr/
 
