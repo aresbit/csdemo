@@ -1,5 +1,14 @@
 
 # verilog
+
+http://www.cs.columbia.edu/~jae/3157/
+
+http://www.cs.columbia.edu/~sedwards/classes/2021/3827-summer/index.html
+
+
+http://www.cs.columbia.edu/~sedwards/classes/2022/4840-spring/index.html
+
+
 mit推荐：
 
 http://www.asic-world.com/systemverilog/tutorial.html
