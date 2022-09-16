@@ -1,7 +1,12 @@
 ## python
 https://walkccc.me/LeetCode/ 
 
-
+## notes
+- https://eecs280staff.github.io/notes/
+- https://eecs376.github.io/notes/
+- https://eecs390.github.io/notes/
+- https://web.eecs.umich.edu/~weimerw/590/
+- http://maxsnew.com/teaching/eecs-483-fa22/
 
 无线wifi
 
