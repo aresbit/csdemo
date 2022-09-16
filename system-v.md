@@ -33,6 +33,48 @@ Introduction to Digital Deisgn and Integrated Circuits
 
 https://cseweb.ucsd.edu//classes/sp22/cse140-a/
 
+# 硬核科技
+
+台湾大神
+
+https://gitter.im/embedded2015/guts-general
+
+cornell
+
+- https://www.cs.cornell.edu/courses/cs3410/2019sp/
+- https://www.csl.cornell.edu/courses/ece2400/
+- https://www.csl.cornell.edu/courses/ece2300/
+- https://www.csl.cornell.edu/courses/ece5775/
+- https://www.csl.cornell.edu/courses/ece4750/
+- https://www.csl.cornell.edu/courses/ece5745/
+- https://www.csl.cornell.edu/courses/ece4750-bak/
+- https://www.cs.cornell.edu/courses/cs5414/2020fa/
+- https://sites.google.com/view/datacenter-computing-spring-19/home?authuser=0
+- https://www.csl.cornell.edu/courses/ece5970/
+- https://www.csl.cornell.edu/courses/ece5750/
+- https://www.csl.cornell.edu/courses/cs5620/lectures.php
+- https://abdelfattah-class.github.io/ece5545/
+- https://www.cs.cornell.edu/courses/cs4110/2021fa/
+- https://www.cs.cornell.edu/courses/cs7491/2020sp/
+- https://web.stanford.edu/class/ee282/
+- https://www.cs.cornell.edu/courses/cs6110/2022sp/
+- https://www.cs.cornell.edu/courses/cs5430/2022fa/
+- https://www.cs.cornell.edu/courses/cs4110/2021fa/
+- https://www.cs.cornell.edu/courses/cs6120/2022sp/
+
+
+
+系统
+
+- https://github.com/beejjorgensen/cs344_curriculum
+- https://www.opencsf.org/Books/csf/html/index.html
+
+## 图形
+
+https://visual.cs.brown.edu/
+
+- https://cs1230.graphics/
+
 
 EECS 151/251A, Spring 2022
 
