@@ -1,4 +1,10 @@
 ## python
+
+
+
+
+https://github.com/kamyu104/LeetCode-Solutions
+
 https://walkccc.me/LeetCode/ 
 
 ## notes
