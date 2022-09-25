@@ -1,4 +1,9 @@
 ## python
+https://www.sas.upenn.edu/~jesusfv/teaching.html
+
+https://hyperpolyglot.org/c
+
+
 
 
 
