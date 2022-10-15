@@ -1,12 +1,9 @@
 
 # verilog
 
-http://www.cs.columbia.edu/~jae/3157/
-
-http://www.cs.columbia.edu/~sedwards/classes/2021/3827-summer/index.html
+https://colorlesscube.com/uvm-guide-for-beginners/
 
 
-http://www.cs.columbia.edu/~sedwards/classes/2022/4840-spring/index.html
 
 
 mit推荐：
