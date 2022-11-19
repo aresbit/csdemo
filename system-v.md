@@ -1,7 +1,7 @@
 
 # verilog
 
-http://staff.ustc.edu.cn/~han/CS152CD/Content/Tutorials/Verilog/VOL/main.html
+http://staff.ustc.edu.cn/~han/CS152CD/Content/Tutorials/Verilog/VOL/main.htm
 
 https://colorlesscube.com/uvm-guide-for-beginners/
 
