@@ -1,11 +1,9 @@
 # c 资源
 
-## leetcode in c
-
-https://github.com/pocketzeroes/proekt/
 
 
-c 高级编程
+
+## c 高级编程
 
 
 https://cs162.org/ladder/
@@ -54,5 +52,9 @@ C++
 MIT 6.172
 
 https://db.in.tum.de/teaching/ss22/c++praktikum/
+
+## leetcode in c
+
+https://github.com/pocketzeroes/proekt/
 
 
