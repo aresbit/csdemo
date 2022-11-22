@@ -7,8 +7,6 @@ https://github.com/pocketzeroes/proekt/
 
 c 高级编程
 
-https://devdocs.io/
-
 
 https://cs162.org/ladder/
 
