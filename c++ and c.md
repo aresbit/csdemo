@@ -1,7 +1,7 @@
 ## python
 https://www.sas.upenn.edu/~jesusfv/teaching.html
 
-https://hyperpolyglot.org/c
+
 
 https://algorithmsun.wordpress.com/2-competitive-programming/
 
