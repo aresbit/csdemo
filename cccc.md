@@ -1,6 +1,27 @@
 # c 资源
 
 
+https://web.stanford.edu/class/cs107a/
+
+系统编程 https://web.stanford.edu/class/archive/cs/cs107/cs107.1232/syllabus.html
+
+踩坑 https://blog.jm233333.com/programming-languages/c/
+
+
+理工C/C++ https://baraksh.com/CSE701/notes.php
+
+
+
+
+
+
+## 量化
+
+quant HFT C/C++ : https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+
+
+
+
 
 
 ## c 高级编程
@@ -56,5 +77,9 @@ https://db.in.tum.de/teaching/ss22/c++praktikum/
 ## leetcode in c
 
 https://github.com/pocketzeroes/proekt/
+
+## linux
+
+内核洞见 https://0xax.gitbooks.io/linux-insides/content/index.html
 
 
