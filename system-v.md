@@ -128,3 +128,15 @@ EDA tools
 https://meddevdesign.mit.edu/
 
 https://web.mit.edu/6.101/www/s2020/index2.html
+
+## formal
+
+http://fmv.jku.at/sat/index.html
+
+http://fmv.jku.at/teaching/index.html
+
+## 程序证明
+
+https://courses.engr.illinois.edu/cs476/fa2022/
+
+http://www.cs.cmu.edu/~15414/s22/
