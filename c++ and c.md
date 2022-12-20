@@ -114,6 +114,8 @@ https://www.csl.cornell.edu/courses/ece2400/
 
 c++ 
 
+http://www.mshah.io/comp/Fall22/cpp/public/index.php
+
 [CIS 190: C++ Programming (Fall 2021)](https://www.seas.upenn.edu/~cis190/)
 
 https://lec.inf.ethz.ch/tutorials/cpp-to-py/#ch1-about-this-tutorial
