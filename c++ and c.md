@@ -93,9 +93,6 @@ https://engineering.purdue.edu/ece264/22sp/
 
 https://beej.us/guide/bgc/html/split-wide/
 
-http://www.cs.columbia.edu/~jae/3157/
-
-
 
 https://student.cs.uwaterloo.ca/~cs136/current/handouts/
 
