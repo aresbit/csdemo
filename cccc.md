@@ -11,7 +11,10 @@ https://web.stanford.edu/class/cs107a/
 理工C/C++ https://baraksh.com/CSE701/notes.php
 
 
+## wifi
+Linux 802.11驱动程序开发指南
 
+https://www.kernel.org/doc/html/latest/driver-api/80211/
 
 
 
