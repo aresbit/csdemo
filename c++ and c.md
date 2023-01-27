@@ -28,6 +28,10 @@ https://people.cs.pitt.edu/~xex1/Lect-Notes.html
 
 c 补充
 
+http://redisbook.com/
+
+
+
 https://lookcos.cn/archives/1120.html
 
 
