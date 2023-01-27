@@ -14,6 +14,25 @@ https://github.com/kamyu104/LeetCode-Solutions
 
 https://walkccc.me/LeetCode/ 
 
+## rust os
+
+https://hendrix-cs.github.io/csci320/
+
+http://rcore-os.cn/rCore-Tutorial-Book-v3/index.html
+
+
+编译器 https://maxsnew.com/teaching/eecs-483-fa22/
+
+范畴论 https://maxsnew.com/teaching/eecs-598-w22/
+
+https://courses.ccs.neu.edu/cs4410/
+
+https://ucsd-cse231-s22.github.io/
+
+
+
+
+
 ## notes
 - https://eecs280staff.github.io/notes/
 - https://eecs376.github.io/notes/
@@ -296,4 +315,4 @@ https://app.albera.com/u/9iw11f448f/digital-communication-systems/introduction/o
 深度学习
 https://minitorch.github.io/
 
-
+algo https://cp-algorithms.com/
