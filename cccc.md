@@ -1,6 +1,8 @@
 # c 资源
 
 
+
+
 https://web.stanford.edu/class/cs107a/
 
 系统编程 https://web.stanford.edu/class/archive/cs/cs107/cs107.1232/syllabus.html
@@ -9,6 +11,10 @@ https://web.stanford.edu/class/cs107a/
 
 
 理工C/C++ https://baraksh.com/CSE701/notes.php
+
+## chat gpt
+
+https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
 
 
 ## wifi
