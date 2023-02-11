@@ -1,5 +1,8 @@
 
 # verilog
+
+http://twins.ee.nctu.edu.tw/courses/ip_core_02/
+
 https://canvas.uw.edu/courses/1515293
 
 http://staff.ustc.edu.cn/~han/CS152CD/Content/Tutorials/Verilog/VOL/main.htm
